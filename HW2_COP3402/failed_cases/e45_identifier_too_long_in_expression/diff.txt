@@ -1,0 +1,4 @@
+26c25
+< Error 2 at line 2, column 33: identifier too long 'averylongidentifier'
+---
+> Error 2 at line 2, column 15: identifier too long 'averylongidentifier'

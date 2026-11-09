@@ -1,0 +1,4 @@
+29c28
+< Error 1 at line 2, column 14: invalid character '@'
+---
+> Error 1 at line 2, column 17: invalid character '@'

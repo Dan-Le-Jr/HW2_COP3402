@@ -1,0 +1,5 @@
+20,21c20
+< 3	procedurea		1	26
+< 
+---
+> 3      procedurea     1      36

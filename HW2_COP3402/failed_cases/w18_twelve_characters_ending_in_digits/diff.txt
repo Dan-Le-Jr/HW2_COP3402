@@ -1,0 +1,31 @@
+10,11c10
+< abcdefghij1		1
+< 12		2
+---
+> abcdefghij12   1
+13,14c12
+< klmnopqrst3		1
+< 34		2
+---
+> klmnopqrst34   1
+17,18c15
+< abcdefghij1		1
+< 12 		2
+---
+> abcdefghij12   1
+20,21c17
+< klmnopqrst3		1
+< 34 		2
+---
+> klmnopqrst34   1
+28,30c24,25
+< 0	abcdefghij1		1	15
+< 1	klmnopqrst3		1	30
+< 
+---
+> 0      abcdefghij12   1      5
+> 1      klmnopqrst34   1      19
+34c29
+< 32 1 0 2 12 15 1 1 2 34 16 20 1 0 2 12 18 1 1 2 34 21 17 
+---
+> 32 1 0 15 1 1 16 20 1 0 18 1 1 21 17 

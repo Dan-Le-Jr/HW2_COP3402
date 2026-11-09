@@ -1,0 +1,4 @@
+30c29
+< Error 1 at line 3, column 13: invalid character '?'
+---
+> Error 1 at line 5, column 13: invalid character '?'

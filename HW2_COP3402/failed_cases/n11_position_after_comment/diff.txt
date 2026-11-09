@@ -1,0 +1,5 @@
+26,27c26
+< 1	afterward		3	8
+< 
+---
+> 1      afterward      5      8

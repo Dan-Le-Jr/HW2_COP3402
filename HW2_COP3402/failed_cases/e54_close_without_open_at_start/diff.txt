@@ -1,0 +1,4 @@
+20c19
+< Error 8 at line 1, column 2: '*/' without a matching '/*'
+---
+> Error 8 at line 1, column 1: '*/' without a matching '/*'
